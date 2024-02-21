@@ -1,0 +1,18 @@
+npm WARN config also Please use --include=dev instead.
+npm WARN config cache-max This option has been deprecated in favor of `--prefer-online`
+npm WARN config cache-min This option has been deprecated in favor of `--prefer-offline`.
+npm WARN config dev Please use --include=dev instead.
+npm WARN config only Use `--omit=dev` to omit dev dependencies from the install.
+npm WARN config optional Use `--omit=optional` to exclude optional dependencies, or
+npm WARN config `--include=optional` to include them.
+npm WARN config 
+npm WARN config     Default value does install optional deps unless otherwise omitted.
+npm WARN config production Use `--omit=dev` instead.
+npm WARN config shrinkwrap Use the --package-lock setting instead.
+npm WARN config sso-poll-frequency The --auth-type method of SSO/SAML/OAuth will be removed in a future
+npm WARN config version of npm in favor of web-based login.
+npm WARN config sso-type The --auth-type method of SSO/SAML/OAuth will be removed in a future
+npm WARN config version of npm in favor of web-based login.
+npm WARN config tmp This setting is no longer used.  npm stores temporary files in a special
+npm WARN config location in the cache, and they are managed by
+npm WARN config     [`cacache`](http://npm.im/cacache).
